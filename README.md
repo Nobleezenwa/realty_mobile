@@ -5,7 +5,7 @@
 
 ## 📱 About This Project
 
-**[App Name]** is a modern React Native Expo application that is part of the broader **Realty Suite** – a comprehensive ecosystem designed to streamline the real estate experience for buyers, renters, agents, companies and third party service providers.
+**Realty Mobile** is a modern React Native Expo application that is part of the broader **Realty Suite** – a comprehensive ecosystem designed to streamline the real estate experience for buyers, renters, agents, companies and third party service providers.
 
 This mobile app enhances property discovery and rental experiences for prospective real estate clients. It offers an interactive platform where users can:
 
